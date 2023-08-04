@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="product_screen_tittle">Productos</string>
+    <string name="back_btn">Regresar</string>
+    <string name="default_text">Texto temporal</string>
+    <string name="product_thumbnail_cd">Imagen de muestra del producto</string>
+</resources>
